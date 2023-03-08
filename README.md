@@ -1,4 +1,4 @@
-### Hi there 👋
+### olá, seja bem vindo 👋
 
  <div>
    <a href="https://github.com/Vandin-alvsr">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para contato siga as redes abaixo:
  
 <div> 
  
